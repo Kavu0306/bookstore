@@ -1,3 +1,3 @@
 export const config = {
-  api: "http://localhost:5000/",
+  api: "https://bookbackend123.herokuapp.com/",
 };
